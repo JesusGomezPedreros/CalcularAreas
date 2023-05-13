@@ -1,4 +1,7 @@
-﻿using CalcularAreas.Errores;
+﻿//autor Jesus Sebastian Gomez Pedreros
+//codigo de uso libre
+
+using CalcularAreas.Errores;
 using CalcularAreas.Servicios;
 
 namespace CalcularAreas.Presentacion
